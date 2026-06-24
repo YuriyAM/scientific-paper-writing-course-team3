@@ -1,1 +1,0 @@
-# scientific-paper-writing-course-team3
