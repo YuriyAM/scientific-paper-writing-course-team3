@@ -144,6 +144,7 @@ a:hover {
   padding: 0.8rem 0;
   color: #5e4b11;
   font-size: 0.97rem;
+  text-align: center;
 }
 
 .hero {
@@ -491,6 +492,7 @@ a:hover {
   padding: 1.25rem 0 2rem;
   color: var(--muted);
   font-size: 0.95rem;
+  text-align: center;
 }
 
 .checklist-grid {
